@@ -12,7 +12,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/" style="font-weight: bold; font-size:40px">Tabla Gatos </RouterLink>
         <RouterLink to="/about" style="font-weight: bold; font-size:40px">Tarjetas Gatos</RouterLink>
       </nav>
-    <img src="/home/nescanpac/WebstormProjects/gatitios/src/gato.png" alt="Gato Logo" style="padding:10px"/>
+    <img src="/home/nescanpac/WebstormProjects/gatitios_pagina/src/gato.png" alt="Gato Logo" style="padding:10px"/>
   </header>
 
   <RouterView />
